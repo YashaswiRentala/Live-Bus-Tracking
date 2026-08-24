@@ -15,8 +15,5 @@ Live-Bus-Tracking/
 ├── database/
 │   └── database.sql
 │
-├── assets/
-│   └── images/
-│
 └── README.md
 ```
